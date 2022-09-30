@@ -1,64 +1,79 @@
 
-USER GENERATED CONTENT POLICY & PRIVACY POLICY
+USER GENERATED CONTENT POLICY & PRIVACY POLICY for fanchat application
 This Policy is aimed to ensure a positive experience for each user. Please join us in this effort by respecting these
 guidelines.
 We may make exceptions to these policies based on artistic, educational, historical, documentary, or scientific
 considerations, or where there are other substantial benefits to the public.
 By clicking the checkbox, you are acknowledging that you have read and understand this Policy, that you agree to
-follows these guidelines currently in effect and as updated by DIVO from time to time. If you do not agree with these
+follows these guidelines currently in effect and as updated by Fanchat from time to time. If you do not agree with these
 guidelines, please do not click the checkbox and/or create user account in Software.
 GENERAL
+
 ✅ Users can post content only in compliance with EULA
+
 ❌ Users are prohibited to post content, which is unlawful, misleading, discriminatory, fraudulent or
 abusive, including without limitation:
+
 ❌ Sexually explicit content that features explicit sexual imagery primarily intended to cause sexual
 arousal;
+
 ❌ Graphic violent content that incites or glorifies violence including extremely graphic or violent materials
 for the sake of disgusting others;
+
 ❌ Hateful content that promotes violence or harassment against an individual or group based on ethnic
 origin, religion, disability, gender, age, veteran status, sexual orientation, or gender identity;
+
 ❌ Content providing medical advice, diagnosis or treatment via this service;
+
 ❌ Content promoting dangerous and illegal activities including self-harm, such as self-mutilation, eating
 disorders, or drug abuse. Users are prohibited to post content used to threaten or organize violence or
 support violent organizations;
+
 ❌ Content aiming at harassment and cyberbullying.
 
 
 ORIGINAL CONTENT
+
 ✅ User can post only content to which user has intellectual rights.
+
 ❌ Users are prohibited to post content that infringes anyone’s intellectual property rights and will respond
 to clear notices of alleged copyright infringement. Repeated infringement of intellectual property rights,
 including copyright, will result in account termination.
 
 
 ADS AND SPONSORED CONTENT
+
 ✅ Sponsorship, including, but not limited to, ownership or affiliate interest, payment, or material support,
 should be clearly disclosed to readers.
+
 ❌ Advertising and other paid promotional material on your pages should not exceed your content.
-❌ We do not allow content that conceals or misrepresents sponsored content as independent, editorial
-content.
+
+❌ We do not allow content that conceals or misrepresents sponsored content as independent, editorial content.
+
 ❌ The subject of sponsored content should not focus on the sponsor without clear disclosure.
 PERSONAL AND CONFIDENTIAL INFORMATION
+
 ❌ We do not allow the sharing of a private person's confidential and personally identifiable information
 (e.g. medical records or financial information).
+
 DECEPTIVE PROFILE
-❌ Users are prohibited to create accounts that impersonate any person or organization, or that
-misrepresent or conceal their ownership or primary purpose. Users are prohibited to create accounts that
-engage in inauthentic or coordinated behavior activity to that misleads users.
+❌ Users are prohibited to create accounts that impersonate any person or organization, or that misrepresent or conceal their ownership or primary purpose. Users are prohibited to create accounts that engage in inauthentic or coordinated behavior activity to that misleads users.
+
 ENFORCEMENT
-📩 DIVO encourages you to report content or conduct that you believe breaches this guidelines
-!! DIVO will react within 24-hours should you report any content or conduct and may take the following
+
+📩 Fanchat encourages you to report content or conduct that you believe breaches this guidelines
+!! Fanchat will react within 24-hours should you report any content or conduct and may take the following
 actions on reported content or conduct: remove content from the account, restrict sharing of content,
 limiting who can view content, disable access to one or more products, delete an account, report illegal
 materials to appropriate law enforcement authorities.
-!! DIVO will remove content that doesn’t comply with this Policy.
-!! DIVO will disable account if user repeatedly infringe other people's intellectual property rights.
+!! Fanchat will remove content that doesn’t comply with this Policy.
+!! Fanchat will disable account if user repeatedly infringe other people's intellectual property rights.
 
 PRIVACY POLICY
-DIVO FINANCE LTD (hereinafter – “DIVO”, “we”, or “us”) provides you with comprehensive information about the
+Fanchat FINANCE LTD (hereinafter – “Fanchat”, “we”, or “us”) provides you with comprehensive information about the
 storage of DATA and PERSONAL INFORMATION of users registered in Software (hereafter – “User”, “Users”, “you”)
-within our company, which is collected in respect of your usage of DIVO mobile application (hereafter – “Software”).
-Company Party means the DIVO and its respective past, present and future employees, officers, directors,
+within our company, which is collected in respect of your usage of Fanchat mobile application (hereafter – “Software”).
+Company Party means the Fanchat and its respective past, present and future employees, officers, directors,
 contractors, consultants, attorneys, accountants, financial advisors, equity holders, suppliers, vendors, service
 providers, parent companies, subsidiaries, affiliates, agents, representatives, predecessors, successors and assigns.
 This Policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be
@@ -74,25 +89,23 @@ Personal Information you provide
 • email address
 • username and password
 • phone number
-• date of birth
-• gender
 • mailing address and country of residence
-• personal identification document details
 • payment information, such as, payment card number (credit or debit card), and the security code associated
 with your payment instrument, if you make a payment
 • information about your appearance, including height, weight, eyes & hair color, size of chest, waist, and hips,
 shoes size
+
 • your current location
 2. We collect and store information, that you provide using the Software: content (photos, stories), information about
 yourself, communications and other information.
+
 3. We may also ask you for personally identifying information at other times, such as if you enter into a promotion,
 post content to the Site, communicate with us, or complete a survey.
+
 Information about your usage of Software
 We collect information about the people, pages, accounts, hashtags and groups that you are connected to and how
 you interact with them across our Software. We collect information about how you use our Software, such as the
-types of content that you view or engage with, the features you use, the actions you take, the people or accounts you
-interact with and the time, frequency and duration of your activities. We also receive and analyze content,
-communications and information that other people provide when they use our Software.
+types of content that you view or engage with, the features you use, the actions you take, the people or accounts you interact with and the time, frequency and duration of your activities. We also receive and analyze content, communications and information that other people provide when they use our Software.
 Non-Personal Information
 We also collect data in a form that does not, on its own, permit direct association with any specific individual, a
 statistical information about our Software and visitors, such as IP addresses, browsers, pages viewed, number of
@@ -117,7 +130,7 @@ understand the activity of the Software users;
 to you;
 • monitoring and analysing trends, usage and activities in connection with the Software;
 • detecting, investigating and preventing fraudulent transactions or unauthorized or illegal activities;
-• protecting the rights and property of DIVO and others;
+• protecting the rights and property of Fanchat and others;
 • linking, connecting or combining information we collect from or about you with other information.
 Disclosure to third parties
 We will only disclose your Personal Data in the following ways:
@@ -206,4 +219,4 @@ The Company may appoint an expert on data privacy who works independently to ens
 adhering to the policies and procedures set forth in the GDPR (data protection officer). Data protection officer assists
 DIVO to monitor internal compliance, inform and advise on data protection obligations, provide advice regarding data
 protection impact assessments (DPIAs) and act as a contact point for data subjects and the supervisory authorities.
-In the case the DIVO appoints such data protection officer, it will publish its contact details on the Website.
+In the case the Fanchat appoints such data protection officer, it will publish its contact details on the Website.
