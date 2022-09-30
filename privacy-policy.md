@@ -1,15 +1,12 @@
 
 USER GENERATED CONTENT POLICY & PRIVACY POLICY
-
 This Policy is aimed to ensure a positive experience for each user. Please join us in this effort by respecting these
 guidelines.
-
 We may make exceptions to these policies based on artistic, educational, historical, documentary, or scientific
 considerations, or where there are other substantial benefits to the public.
 By clicking the checkbox, you are acknowledging that you have read and understand this Policy, that you agree to
 follows these guidelines currently in effect and as updated by DIVO from time to time. If you do not agree with these
 guidelines, please do not click the checkbox and/or create user account in Software.
-
 GENERAL
 ✅ Users can post content only in compliance with EULA
 ❌ Users are prohibited to post content, which is unlawful, misleading, discriminatory, fraudulent or
@@ -25,11 +22,15 @@ origin, religion, disability, gender, age, veteran status, sexual orientation, o
 disorders, or drug abuse. Users are prohibited to post content used to threaten or organize violence or
 support violent organizations;
 ❌ Content aiming at harassment and cyberbullying.
+
+
 ORIGINAL CONTENT
 ✅ User can post only content to which user has intellectual rights.
 ❌ Users are prohibited to post content that infringes anyone’s intellectual property rights and will respond
 to clear notices of alleged copyright infringement. Repeated infringement of intellectual property rights,
 including copyright, will result in account termination.
+
+
 ADS AND SPONSORED CONTENT
 ✅ Sponsorship, including, but not limited to, ownership or affiliate interest, payment, or material support,
 should be clearly disclosed to readers.
@@ -52,6 +53,7 @@ limiting who can view content, disable access to one or more products, delete an
 materials to appropriate law enforcement authorities.
 !! DIVO will remove content that doesn’t comply with this Policy.
 !! DIVO will disable account if user repeatedly infringe other people's intellectual property rights.
+
 PRIVACY POLICY
 DIVO FINANCE LTD (hereinafter – “DIVO”, “we”, or “us”) provides you with comprehensive information about the
 storage of DATA and PERSONAL INFORMATION of users registered in Software (hereafter – “User”, “Users”, “you”)
