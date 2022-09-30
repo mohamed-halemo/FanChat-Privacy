@@ -169,7 +169,7 @@ Process your Personal Information as it is indicated in your Consent.
 You may always refuse to supply your Personal Information, though this may prevent you from engaging in certain
 Software - related activities and/or obtaining certain Services.
 You have the right to withdraw your Consent at any time. You can submit such request by sending us an email to:
-info@divo.fashion based on Consent before its withdrawal.
+azaki@webbingstone.com based on Consent before its withdrawal.
 Retainment of Information
 In accordance with applicable laws and as needed to provide the Services to our users, Company Parties may hold
 your Personal Information. This requirement is conditioned by a need to comply with legal obligations and resolve
@@ -183,20 +183,20 @@ applicable laws of the member states of the European Union. In particular, EU Pe
 relating to their Personal Data:
 1. right to access. You can request access to your Personal Data and obtain a copy of such Personal Data in a
 format acceptable to you (e.g. PDF, DOC, DOCX, etc.). You can submit such request by sending an email to:
-info@divo.fashion. After your request is received, our privacy team reviews the form and conducts requestor's
+azaki@webbingstone.com. After your request is received, our privacy team reviews the form and conducts requestor's
 identity verification without undue delay. Upon successful verification, you are provided with a copy of your
 Personal Data;
 2. right to data portability. You have the right to receive your Personal Data, which you have provided to us, in a
 structured, commonly used and machine-readable format and have the right to transmit those data to another
 service provider (controller) without hindrance from us;
 3. right to erasure ("Right to be forgotten") and right to rectification. You are entitled to request erasure or
-rectification of your Personal Data by sending us a respective request to: info@divo.fashion. We will handle
+rectification of your Personal Data by sending us a respective request to: azaki@webbingstone.com. We will handle
 requests for Personal Data to be rectified or deleted, unless there is a legal requirement that prohibits such
 request to be fulfilled. When request is fulfilled, you will be informed that your Personal Data is changed or erased
 and is not-longer collected, however, to fulfil our legal requirements the Company Parties will store information
 about each requestor for the purposes of providing an evidence that a request has been fulfilled;
 4. right to object. At all times, you are entitled to object to Processing of your Personal Data. Right to object can
-be exercised by sending an email to: info@divo.fashion. Upon receipt of the request, the Company Parties cease
+be exercised by sending an email to: azaki@webbingstone.com. Upon receipt of the request, the Company Parties cease
 the Processing, unless there is a legal or statutory ground for such Processing;
 5. right to be informed. If you are inquiring about Processing activities conducted with respect to your Personal
 Data, the Company Parties, without undue delay, will provide information about: (i) purposes of Processing; (ii)
