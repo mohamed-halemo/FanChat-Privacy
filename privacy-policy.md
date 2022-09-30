@@ -1,12 +1,15 @@
 
 USER GENERATED CONTENT POLICY & PRIVACY POLICY
+
 This Policy is aimed to ensure a positive experience for each user. Please join us in this effort by respecting these
 guidelines.
+
 We may make exceptions to these policies based on artistic, educational, historical, documentary, or scientific
 considerations, or where there are other substantial benefits to the public.
 By clicking the checkbox, you are acknowledging that you have read and understand this Policy, that you agree to
 follows these guidelines currently in effect and as updated by DIVO from time to time. If you do not agree with these
 guidelines, please do not click the checkbox and/or create user account in Software.
+
 GENERAL
 ✅ Users can post content only in compliance with EULA
 ❌ Users are prohibited to post content, which is unlawful, misleading, discriminatory, fraudulent or
